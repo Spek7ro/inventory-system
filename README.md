@@ -40,5 +40,7 @@ inventory_system/
 ├── docker-compose.yml
 ├── requirements.txt
 └── README.md
-´´´
+```
+## ⚙️ Configuración del Entorno
+
 
