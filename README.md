@@ -43,9 +43,10 @@ inventory_system_api/
 ```
 ## ⚙️ Configuración del Entorno
 
-## 🔷Diagrama de clases 
+## 🔷 Diagrama de clases 
 ![image](https://github.com/user-attachments/assets/5fd95fa1-53db-4ccc-889e-81147bed68a4)
 
+## 🔶 Diagrama Relacional 
 
-
+## 📝Diagrama de arquitectura
 
