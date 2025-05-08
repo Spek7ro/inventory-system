@@ -2,6 +2,12 @@
 
 ### Prueba técnica: Desarrollo una API REST para gestionar el inventario de una cadena de tiendas minoristas. 
 
+## 💻 Tecnologías
+- Python
+- FastApi
+- Docker
+- PostgreSQL
+
 ## 📁 Estructura del proyecto
 ```plaintext
 inventory_system_api/
