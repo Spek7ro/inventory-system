@@ -4,7 +4,7 @@
 
 ## 📁 Estructura del proyecto
 ```plaintext
-inventory_system/
+inventory_system_api/
 ├── app/
 │   ├── api/
 │   │   ├── v1/
@@ -42,5 +42,10 @@ inventory_system/
 └── README.md
 ```
 ## ⚙️ Configuración del Entorno
+
+## 🔷Diagrama de clases 
+![image](https://github.com/user-attachments/assets/5fd95fa1-53db-4ccc-889e-81147bed68a4)
+
+
 
 
